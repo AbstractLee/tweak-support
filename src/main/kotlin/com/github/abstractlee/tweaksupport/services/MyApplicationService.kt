@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.abstractlee.tweaksupport.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.abstractlee.tweaksupport.MyBundle
 
 class MyApplicationService {
 
